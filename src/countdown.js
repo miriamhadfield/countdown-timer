@@ -72,4 +72,4 @@ class CountDown extends Component {
     }
 }
 
-export default CountDown
+export default CountDown;
